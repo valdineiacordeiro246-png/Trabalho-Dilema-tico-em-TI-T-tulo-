@@ -51,5 +51,8 @@ ________________________________________
 6. Considerações finais
 Este caso ilustra como a tecnologia, quando mal implementada, pode reforçar desigualdades sociais ao invés de reduzi-las. Portanto, é fundamental que empresas avaliem não apenas os ganhos econômicos e de eficiência, mas também os impactos éticos e sociais de suas escolhas tecnológicas.
 
+Contatos
+
 valdineiacordeiro246-png/Trabalho-Dil... 2 commits
+
 www.linkedin.com/in/valdineia-cordeiro-49a5012a7
